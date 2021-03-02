@@ -11,7 +11,7 @@ Industry Experience: Financial Services, Banking, Vehicle auction, Insurance. 5+
 A good team player. Captain of women flag football team. Have good social skills.
 
 **Passion to learn new things offered to try myself in a fullstack development.**
-</br>
+
 ## Skills and knowledge
 
 * Database: Oracle, MySQL, SQL Server
@@ -35,13 +35,13 @@ function fancyAlert(arg) {
 ```
 
 ## Experience
-November 2014 – July 2017 </br>
-**Light Well Organization. Fintech Development Company** </br>
+November 2014 – July 2017
+**Light Well Organization. Fintech Development Company**
 Software developer
 Backend developer in financial and banking area for Belarusian banks. Work experience during projects life-cycle. Bugfixing experience. Technical documentation preparation.
 
-August 2017 – till now </br>
-**Elinext. Outsorce Software Development Company** </br>
+August 2017 – till now
+**Elinext. Outsorce Software Development Company**
 Software developer
 Java backend developer in services for Insurance and vehicle remarketing industries.
 
@@ -53,5 +53,5 @@ Bachelor Degree. Faculty of Computer Systems and Networks. Specialization – so
 ITechArt. Basic Java language. Development methodology. OOP. Arrays. Conditions. Methods. Java Bean. Collections. Interfaces. JDBC. MVC model. Maven. Git. JSP. MySQL. XML. Hibernate.
 
 ## English
-2014-2015 **English course at BSUIR** </br>
+2014-2015 **English course at BSUIR**
 Intermediate level. Strong level of reading and understanding.

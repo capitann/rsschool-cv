@@ -1,2 +1,1 @@
-# rsschool-cv
-Testing CV for experience to use Markdown
+https://capitann.github.io/rsschool-cv/cv
